@@ -1,5 +1,2 @@
 - 👋 Hello there, I’m @katiehaske! Call me Katie 💁‍♀️
-- 🖥️ I'm a python enthusiast newly on the data science job market!
-- 🎓 I’ve been formally trained in data analytics, predictive modeling, machine learning, and deep learning
-- 👩‍💻 For now, I'm devoting my time to python projects as I look for a career
 - 📫 To get in touch, find me on LinkedIn as [Katie Haske](https://www.linkedin.com/in/katiehaske/)!
